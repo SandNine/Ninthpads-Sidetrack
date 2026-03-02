@@ -5,7 +5,7 @@
 *Já fechou seus blocos de notas e perdeu seus arquivos? OU já quis focar em um texto específico por vez?*  
 Se sim, você está com sorte! O Ninthpads está aqui para resolver isso!
 
-Mais primeiro, esse README está na sua linguagem certa?
+Mais primeiro, esse README está na sua linguagem?  
 **README: [English US](README.md)  \\\ [Português (Brasil)](README_PTBR.md)**
 
       
