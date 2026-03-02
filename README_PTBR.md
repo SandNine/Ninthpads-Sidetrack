@@ -10,32 +10,31 @@ Mais primeiro, esse README está na sua linguagem certa?
 
       
 ## 🎯 O Sistema de Destaque por ID
-O sistema de ID é uma ferramenta de foco simples, porém poderosa. Textos atribuídos a um ID permanecem apagados até serem destacados.  
-Textos com os *mesmos IDs* são destacados simultaneamente independentemente da distância, enquanto textos com *IDs diferentes* permanecem apagados, permitindo que você foque estritamente em partes específicas do seu documento.
+O sistema de ID é uma ferramenta de foco simples, Textos atribuídos a um ID são apagados até serem destacados.   
+Textos com os *mesmos IDs* são destacados simultaneamente independentemente da distância, enquanto textos com *IDs diferentes* permaneceram apagados, permitindo que você foque estritamente em partes específicas do seu documento.
 
 <img src="imagery.ninthpads/Ninthpads-IDs.gif" width="538">
 
 
 ## 📂 O Explorador Interno
-Assim como organizar arquivos em pastas no seu computador, o Explorador Interno está aqui para tornar sua experiência muito melhor.  
-Ele permite que você salve arquivos do Ninthpads sem perder nenhum dos seus dados especiais de formatação, tudo exibido em uma estrutura em estilo de árvore.  
+Assim como organizar arquivos em pastas no seu computador, o Explorador Interno está aqui para tornar sua experiência muito melhor. Ele permite que você salve arquivos dentro do Ninthpads sem perder nenhum dos seus dados especiais de formatação, tudo exibido em uma estrutura familiar para os nossos entusiatas da computação.  
 Você pode recolorir, renomear e organizar seus arquivos da maneira que quiser.
 
 <img src="imagery.ninthpads/Ninthpads-Internal_Explorer.gif" width="535">
 
 
 ## 💾 Salvamento Assíncrono
-A aplicação precisa de uma forma de salvar seus arquivos temporariamente quando você a fecha sem salvar,  
-e também de um local para armazenar os dados do Explorador. Então, que melhor maneira do que usar o arquivo "session.json"?  
-Com esse arquivo, salvamos suas configurações, flags, itens no Explorador e os arquivos mantidos abertos nas abas.
+O Ninthpads precisa de uma forma de salvar seus arquivos temporariamente quando você o fecha sem salvar,  
+também de um local para armazenar os dados do Explorador. Então, o que melhor do que usar o arquivo "session.json"?  
+Com esse arquivo, salvamos suas configurações, flags, itens no Explorador e os arquivos retidos abertos nas abas.
 
 <img width="535" height="351" alt="image" src="https://github.com/user-attachments/assets/bff0b53a-bf39-450e-9fb8-e2016ca633df" />
 
 
 ## 🌐 Suporte a Múltiplos Idiomas
-O Ninthpads possui suporte a múltiplos idiomas, atualmente oferecendo ***English US*** e ***Português Brasil*** 
+O Ninthpads possui suporte a múltiplos idiomas, atualmente oferecendo ***Inglês (Estados Unidos)*** e ***Português (Brasil)***  
 Se a sua aplicação estiver em outro idioma, não se preocupe! Basta verificar a barra lateral para alterar o idioma atual.  
-Não se esqueça de sempre revisar e ajustar suas configurações para combinar com suas preferências e deixar tudo com a sua própria identidade!
+Nunca se esqueça de revisar e ajustar suas configurações para combinar com suas preferências e ter seu próprio toque.
 
 <img src="imagery.ninthpads/Ninthpads-Languages.gif" width="535">
 
@@ -51,10 +50,10 @@ Portanto, se uma atualização incluir o executável nas releases e possuir uma 
 
 
 ## 🪲 Muitos Bugs...
-Apesar de tudo, a aplicação está sempre em desenvolvimento e pode conter alguns bugs, tanto por ser um projeto passional quanto porque partes dele foram construídas de maneira um pouco "vibe-coded".  
+Apesar de tudo, a aplicação está sempre em desenvolvimento e pode conter alguns bugs, tanto por ser um projeto passional quanto porque partes dele foram construídas de maneira um pouco "vibe-codadas".  
 Quaisquer contribuições futuras e feedback são muito bem-vindos. Sempre que encontrar um bug, por favor, reporte ao canal da DIversion Studios (https://www.youtube.com/@Diversion.Studios) ou à aba de Issues no repositório do GitHub.
 
-Agradecemos todo o apoio, potencial e uso do Ninthpads.  
+Agradecemos todo o apoio, potencial, e uso do Ninthpads.  
 Esperamos que um dia isso se torne um enorme projeto impulsionado pela comunidade.  
 E se um dia pudermos dizer que realmente conseguimos, então zeramos na vida.
 
