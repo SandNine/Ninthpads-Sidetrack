@@ -28,7 +28,7 @@ With this file, we save your configurations, flags, items in the Explorer, and t
 <img width="535" height="351" alt="image" src="https://github.com/user-attachments/assets/bff0b53a-bf39-450e-9fb8-e2016ca633df" />
 
 
-## 🧩 Language Suport
+## 🌐 Multi-Language Suport
 Ninthpads has a multi-language support, currently suporting ***English US*** and ***Português Brasil*** *(Brazilian Portuguesse)*
 If your application is in another language, don't worry! Just check the sidebar to change your current language.
 Don’t forget to always review and adjust your settings to match your preferences and have your own touch!
