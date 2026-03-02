@@ -50,7 +50,7 @@ Portanto, se uma atualização incluir o executável nas releases e possuir uma 
 
 
 ## 🪲 Muitos Bugs...
-Apesar de tudo, a aplicação está sempre em desenvolvimento e pode conter alguns bugs, tanto por ser um projeto passional quanto porque partes dele foram construídas de maneira um pouco "vibe-codadas".  
+Apesar de tudo, o Ninthpads está sempre em desenvolvimento e pode conter alguns bugs, tanto por ser um projeto passional quanto porque partes dele foram construídas de maneira um pouco "vibe-codadas".  
 Quaisquer contribuições futuras e feedback são muito bem-vindos. Sempre que encontrar um bug, por favor, reporte ao canal da DIversion Studios (https://www.youtube.com/@Diversion.Studios) ou à aba de Issues no repositório do GitHub.
 
 Agradecemos todo o apoio, potencial, e uso do Ninthpads.  
