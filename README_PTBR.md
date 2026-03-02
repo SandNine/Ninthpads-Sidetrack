@@ -62,4 +62,4 @@ E se um dia pudermos dizer que realmente conseguimos, então zeramos na vida.
 <img width="566" height="167" alt="image" src="https://github.com/user-attachments/assets/9de80b26-6974-47f4-a1e5-2f52b2f8868f" />
 
 
-© 2024–2026 Diversion Studios. Todos os direitos reservados.
+**© 2024–2026 **Diversion Studios** — _All rights reserved._**
