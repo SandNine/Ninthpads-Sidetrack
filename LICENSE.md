@@ -1,4 +1,4 @@
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29b08903-e8a8-47e7-b549-1e51cf31ac12" /> Ninthpads [Sidetrack] - All Versions
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29b08903-e8a8-47e7-b549-1e51cf31ac12" /> Ninthpads: [Sidetrack] - All Versions
 ### Usage & Distribution Notice
 
 Copyright (c) 2026 Diversion Studios
