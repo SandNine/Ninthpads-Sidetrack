@@ -1,4 +1,5 @@
-# Ninthpads: [Sidetrack]
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29b08903-e8a8-47e7-b549-1e51cf31ac12" /> Ninthpads: [Sidetrack]
+
 **A Modern Notepad Substitute with Special Features, Automatic Saving, and Internal Data Storage.**
 
 *Ever closed your Notepads and have lost your files? OR, have you ever wanted to focus on a specific text at a time?*
@@ -37,7 +38,7 @@ Don’t forget to always review and adjust your settings to match your preferenc
 <img src="imagery.ninthpads/Ninthpads-Languages.gif" width="535">
 
 
-## 🦠 Updates, Executable Only, & More...
+## 📦 Updates, Executable Only, & More...
 Ninthpads, with its compilation method and source code structure, has its quirks.
 One of them is that all essential `(.py)` _(Python)_ files are bundled into the executable file `(.exe)`
 
@@ -46,7 +47,7 @@ So, if an update includes the executable in the releases and has a green flag "�
 <img width="565" height="354" alt="image" src="https://github.com/user-attachments/assets/7a1c204e-5b84-44b4-b4e1-80c4710d8596" />
 
 
-## 🐜 A Lot of Bugs...
+## 🪲 A Lot of Bugs...
 Despite everything, the application is always under development and may contain some bugs, both because it is a passion project and because parts of it were built in a somewhat "vibe-coded" way. Any future contributions and feedback are greatly appreciated. Whenever you find a bug, please report it to the DIversion Studios channel (https://www.youtube.com/@Diversion.Studios) or to the Issues tab on the GitHub repository.
 
 We appreciate all the support, potential, and use of Ninthpads.
