@@ -43,7 +43,8 @@ Uma delas é que todos os arquivos essenciais `(.py)` _(Python)_ são incorporad
 
 Portanto, se uma atualização incluir o executável nas releases e possuir uma bandeira verde "🔰", isso significa que você só precisa substituir o arquivo `.exe` para atualizar a aplicação. Isso torna o processo mais rápido e evita que você precise baixar todos os componentes novamente.
 
-<img width="565" height="354" alt="image" src="https://github.com/user-attachments/assets/7a1c204e-5b84-44b4-b4e1-80c4710d8596" />
+<img width="565" height="354" alt="image" src="https://github.com/user-attachments/assets/3a46a960-7a8c-4463-a80b-b3914d1b1b7a" />
+
 
 
 ## 🪲 Muitos Bugs...
