@@ -1,14 +1,14 @@
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29b08903-e8a8-47e7-b549-1e51cf31ac12" /> Ninthpads: [Sidetrack]
 
-**Um Substituto Moderno para Bloco de Notas com Recursos Especiais, Salvamento Automático e Armazenamento Interno de Dados.**
+**Um Substituto para Bloco de Notas com Recursos Extras, Salvamento Automático e Armazenamento Interno de Dados.**
 
 *Já fechou seus blocos de notas e perdeu seus arquivos? OU já quis focar em um texto específico por vez?*  
 Se sim, você está com sorte! O Ninthpads está aqui para resolver isso!
 
       
 ## 🎯 O Sistema de Destaque por ID
-O sistema de ID é uma ferramenta de foco simples, porém poderosa. Textos atribuídos a um ID permanecem esmaecidos até serem destacados.  
-Textos com os *mesmos IDs* são destacados simultaneamente independentemente da distância, enquanto textos com *IDs diferentes* permanecem esmaecidos, permitindo que você foque estritamente em partes específicas do seu documento.
+O sistema de ID é uma ferramenta de foco simples, porém poderosa. Textos atribuídos a um ID permanecem apagados até serem destacados.  
+Textos com os *mesmos IDs* são destacados simultaneamente independentemente da distância, enquanto textos com *IDs diferentes* permanecem apagados, permitindo que você foque estritamente em partes específicas do seu documento.
 
 <img src="imagery.ninthpads/Ninthpads-IDs.gif" width="538">
 
