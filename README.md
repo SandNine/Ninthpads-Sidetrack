@@ -42,12 +42,12 @@ We appreciate all the support, potential, and use of Ninthpads.
 We hope that one day this becomes a massive community-driven project. 
 And if one day we can say we truly made it, then we’ve won at life.
 <img width="1590" height="489" alt="image" src="https://github.com/user-attachments/assets/c1982ab7-2287-460d-8c33-51a3297d5223" />
-© 2024–2026 Diversion Studios. All rights reserved.
+
 
 
 
 
 <img width="566" height="167" alt="image" src="https://github.com/user-attachments/assets/9de80b26-6974-47f4-a1e5-2f52b2f8868f" />
 
-
+© 2024–2026 Diversion Studios. All rights reserved.
 
