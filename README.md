@@ -9,7 +9,7 @@ The ID system is a simple but powerful focus tool. Text assigned with an ID stay
 Texts with the *same IDs* are highlighted simultaneously regardless of distance, 
 while texts with *different IDs* remain dimmed,  allowing you to focus strictly on specific parts of your document.
 
-<img src="imagery.ninthpads/Ninthpads-ID_System.gif" width="538">
+<img src="imagery.ninthpads/Ninthpads-IDs.gif" width="538">
 
 
 ## 📂 The Internal Explorer
@@ -17,7 +17,7 @@ Just like organizing files into folders on your computer, The Internal Explorer 
 It lets you save Ninthpads files without losing any of their special formatting data, all displayed in a tree-style structure. 
 You can recolor, rename, and organize your files however you like.
 
-<img src="imagery.ninthpads/Ninthpads-Explorer.gif" width="535">
+<img src="imagery.ninthpads/Ninthpads-Internal_Explorer.gif" width="535">
 
 
 ## 💾 Asynchronous Saving
