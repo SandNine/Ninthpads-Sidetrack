@@ -4,16 +4,17 @@
 *Ever closed your Notepads and have lost your files? OR, have you ever wanted to focus on a specific text at a time?*
 If so, you are in luck! Ninthpads has got you covered up!
 
+      
 ## 🎯 The ID Highlighting System
-The ID system is a simple but powerful focus tool. Text assigned with an ID stays dimmed until highlighted. 
-Texts with the *same IDs* are highlighted simultaneously regardless of distance, 
-while texts with *different IDs* remain dimmed,  allowing you to focus strictly on specific parts of your document.
+The ID system is a simple but powerful focus tool. Text assigned with an ID stays dimmed until highlighted.
+Texts with the *same IDs* are highlighted simultaneously regardless of distance, while texts with
+*different IDs* remain dimmed, allowing you to focus strictly on specific parts of your document.
 
 <img src="imagery.ninthpads/Ninthpads-IDs.gif" width="538">
 
 
 ## 📂 The Internal Explorer
-Just like organizing files into folders on your computer, The Internal Explorer is here to make  your experience much better. 
+Just like organizing files into folders on your computer, The Internal Explorer is here to make your experience much better. 
 It lets you save Ninthpads files without losing any of their special formatting data, all displayed in a tree-style structure. 
 You can recolor, rename, and organize your files however you like.
 
@@ -35,19 +36,27 @@ Don’t forget to always review and adjust your settings to match your preferenc
 
 <img src="imagery.ninthpads/Ninthpads-Languages.gif" width="535">
 
+
+## 🦠 Updates, Executable Only, & More...
+Ninthpads, with its compilation method and source code structure, has its quirks.
+One of them is that all essential `(.py)` _(Python)_ files are bundled into the executable file `(.exe)`
+
+So, if an update includes the executable in the releases and has a green flag "🔰", it means you only need to replace the .exe file to update the app. This makes the process faster and avoids having to download all of its components again.
+
+<img width="565" height="354" alt="image" src="https://github.com/user-attachments/assets/7a1c204e-5b84-44b4-b4e1-80c4710d8596" />
+
+
 ## 🐜 A Lot of Bugs...
-Despite everything, the application is always under development and may contain some bugs, both because it is a passion project and because parts of it were built in a somewhat “vibe-coded” way. Any future contributions and feedback are greatly appreciated. Whenever you find a bug, please report it to the DIversion Studios channel (https://www.youtube.com/@Diversion.Studios) or to the Issues tab on the GitHub repository.
+Despite everything, the application is always under development and may contain some bugs, both because it is a passion project and because parts of it were built in a somewhat "vibe-coded" way. Any future contributions and feedback are greatly appreciated. Whenever you find a bug, please report it to the DIversion Studios channel (https://www.youtube.com/@Diversion.Studios) or to the Issues tab on the GitHub repository.
 
 We appreciate all the support, potential, and use of Ninthpads.
 We hope that one day this becomes a massive community-driven project. 
 And if one day we can say we truly made it, then we’ve won at life.
+
 <img width="1590" height="489" alt="image" src="https://github.com/user-attachments/assets/c1982ab7-2287-460d-8c33-51a3297d5223" />
 
-
-
-
-
 <img width="566" height="167" alt="image" src="https://github.com/user-attachments/assets/9de80b26-6974-47f4-a1e5-2f52b2f8868f" />
+
 
 © 2024–2026 Diversion Studios. All rights reserved.
 
