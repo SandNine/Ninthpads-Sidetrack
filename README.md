@@ -4,9 +4,6 @@
 
 *Ever closed your Notepads and have lost your files? OR, have you ever wanted to focus on a specific text at a time?*  
 If so, you are in luck! Ninthpads has got you covered up!
-
-But first, is this README in your language?  
-**README: [English US](README.md)  \\\ [Português (Brasil)](README_PTBR.md)**
       
 ## 🎯 The ID Highlighting System
 The ID system is a simple but powerful focus tool. Text assigned with an ID stays dimmed until highlighted.  
